@@ -6,6 +6,6 @@ Horiseon Marketing Agency Website | [Website Link](https://dtm5169.github.io/cod
 
 
 
-A readme.md for Horiseon marketing agency website, modified for web accessibility to ensure that people with disabilities can access a website using assistive technologies and optimized for search engines 
+A readme.md for Horiseon marketing agency website, modified for web accessibility to ensure that people with disabilities can access using assistive technologies and optimized for search engines. 
 
 &copy; 2019 Horiseon Social Solution Services, Inc.
